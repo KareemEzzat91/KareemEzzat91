@@ -1,8 +1,4 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://25.media.tumblr.com/c091d05d92d09204b565cbc8b5e33580/tumblr_mvjddzjR1h1shpedgo1_500.gif" alt="Coding Banner" width="100%" />
-</div>
-
 <h1 align="center">👋 Hi there, I'm Kareem Ezzat</h1>
 <h3 align="center">Mobile App Developer | UI/UX Designer | Problem Solver</h3>
 
